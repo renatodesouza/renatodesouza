@@ -5,7 +5,7 @@
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCrvLV2DfjVctYlwCEB49MVg)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-souza-lucas-goncalves-935007284/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/renato-souza-lucas-goncalves-935007284/](https://www.linkedin.com/in/renato-de-souza-lucas/?trk=opento_sprofile_details))
 
 
 ![Renato GitHub stats](https://github-readme-stats.vercel.app/api?username=renatodesouza&show_icons=true&theme=cobalt&count_private=true)
