@@ -81,9 +81,9 @@ Aqui estão alguns tutoriais recentes que publiquei no canal:
 
 ## 🌱 Sobre mim
 
-- 🔭 Atualmente estou trabalhando em projetos **Full Stack com Django**.
+- 🔭 Atualmente estou trabalhando em projetos pessoais **com Django**.
 - 📚 Estudando arquitetura de software e **Boas Práticas (Clean Code)**.
-- 💬 Pergunte-me sobre **Python, Django e Carreira Tech**.
+- 💬 Pergunte-me sobre **Python, Django.
 
 ---
 
